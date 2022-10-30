@@ -1,0 +1,44 @@
+.div-1{
+    background-color: rgba(215, 218, 227, 0.707);
+    padding: 10px;
+    text-align: left;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0); 
+    border-radius: 15px;  
+}
+.estilo{
+    background-color: transparent;
+    text-align: start;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.labelData{
+    text-align: left;
+}
+
+.body{
+    background: url(../img/index.png);
+    background-position: start;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.home{
+    background: url(../img/home.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.button{
+background-color: transparent;
+text-align: end;
+}
+#map{
+    width: 700px;
+    height: 500px;
+    margin: 0 auto;
+}
+
